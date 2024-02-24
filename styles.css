@@ -1,0 +1,109 @@
+body {
+    background-color: #6e3c3c82;
+}
+
+/*navigation edit */
+
+.topnav a {
+    position: relative;
+    float: left;
+    color: #400606f7;
+    text-align: top;
+    padding: 12px 13px;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+/* hover navigation bar*/
+
+.topnav a:hover {
+    background-color: #7b5b5b;
+    color: black;
+}
+
+/* active page */
+
+.topnav a.active {
+    background-color: rgba(110, 57, 19, 0.56);
+    color: rgb(102, 18, 18);
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    /* position: sticky;
+    top: 0;
+    width: 100%; */
+}
+
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+    list-style: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    list-style: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+li div {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.active {
+    background-color: #04AA6D;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.bottom-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-padding {
+    padding-top: 10px;
+}
+
+.left-padding {
+    padding-left: 50px;
+}
+
+.container {
+    display: flex;
+}
+
+.large-font-size {
+    font-size: larger;
+}
+
+.extra-large-font-size {
+    font-size: x-large;
+}

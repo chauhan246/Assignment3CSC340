@@ -1,0 +1,13 @@
+(Image Name) Website
+
+(almond) https://wilsoncandy.com/cdn/shop/products/wilson-candy-almond-wunder-bar-main-2_800x.jpg?v=1570807477	
+(peanutbutter) https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.candyhistory.net%2Fcandy-origin%2Fcandy-bars-history%2F&psig=AOvVaw0tnpsZallUyrnVmTtMU3NP&ust=1708829082836000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCIiHz8X6woQDFQAAAAAdAAAAABCVAw
+(darkchocolate) https://worldofeurope.com/wp-content/uploads/2023/01/NESTLE3-1.jpg
+(whitechocolate) https://gallowayfudge.com/image/cache/catalog/Bars/Marshmallow%20Bars/Marshmallow%20and%20Caramel%20Bars29-600x600.jpg
+(mixchoc) https://www.thespruceeats.com/thmb/FhHcgQni8lgV0griUeDJMTAszxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chocolate_hero1-d62e5444a8734f8d8fe91f5631d51ca5.jpg
+(variety) https://www.modernhoney.com/wp-content/uploads/2022/02/Chocolate-Truffles-2-scaled.jpg
+(chocos) https://cdn3.vectorstock.com/i/1000x1000/90/02/mellow-chocolate-bar-vector-39209002.jpg
+(crunch) https://media.istockphoto.com/id/482448750/photo/chocolate-bar.jpg?s=612x612&w=0&k=20&c=FwfG_ebxTMV-Gub85qlmjMKTgLItLE1tBOboM3to_h0=
+(hazelnut) https://www.facebook.com/1537590683157738/photos/a.1585779461672193/1652420278341444/?type=3
+(truffle) https://images.app.goo.gl/QPtEWte2J2C3nEVJ9
+(caramel) https://hikingondartmoor.wordpress.com/2012/03/15/twix-unboxing-and-first-impressions/
